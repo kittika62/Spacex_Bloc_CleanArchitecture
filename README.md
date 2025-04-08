@@ -1,6 +1,6 @@
 # spacex_bloc
 
-A new Flutter project.
+Flutter project. leaning for the BLoC State Management and Clean Architecture and Localization and Search API
 
 ## Getting Started
 
