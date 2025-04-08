@@ -1,0 +1,53 @@
+{
+    "@@locale": "en",
+    "app_title": "SpaceX",
+    "@app_title": {
+      "description": "Title of the app"
+    },
+    "language": "English",
+    "@language": {
+      "description": "language"
+    },
+    "search_hint": "Search...",
+    "@search_hint": {
+      "description": "Hint text for the search bar"
+    },
+    "launch_success": "Success",
+    "@launch_success": {
+      "description": "Text displayed when the launch is successful"
+    },
+    "launch_failure": "Failure",
+    "@launch_failure": {
+      "description": "Text displayed when the launch fails"
+    },
+    "error_no_data": "Error No Data",
+    "@error_no_data": {
+      "description": "Displayed when no data is available"
+    },
+    "details": "Details: {details}",
+    "@details": {
+      "description": "Label for details of the launch",
+      "placeholders": {
+        "details": {}
+      }
+    },
+    "rocket": "Rocket: {rocket}",
+    "@rocket": {
+      "description": "Label for the rocket used in the launch",
+      "placeholders": {
+        "rocket": {}
+      }
+    },
+    "launchpad": "Launchpad: {launchpad}",
+    "@launchpad": {
+      "description": "Label for the launchpad",
+      "placeholders": {
+        "launchpad": {}
+      }
+    },
+    "close": "Close",
+    "@close": {
+      "description": "Button label for closing dialogs"
+    }
+  }
+  

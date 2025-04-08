@@ -1,0 +1,52 @@
+{
+  "@@locale": "th",
+  "app_title": "SpaceX",
+  "@app_title": {
+    "description": "ชื่อของแอป"
+  },
+  "language": "ไทย",
+  "@language": {
+    "description": "language"
+  },
+  "search_hint": "ค้นหา...",
+  "@search_hint": {
+    "description": "ข้อความแนะนำในช่องค้นหา"
+  },
+  "launch_success": "สำเร็จ",
+  "@launch_success": {
+    "description": "ข้อความเมื่อปล่อยจรวดสำเร็จ"
+  },
+  "launch_failure": "ล้มเหลว",
+  "@launch_failure": {
+    "description": "ข้อความเมื่อปล่อยจรวดล้มเหลว"
+  },
+  "error_no_data": "เกิดข้อผิดพลาด ไม่มีข้อมูล",
+  "@error_no_data": {
+    "description": "แสดงเมื่อไม่มีข้อมูล"
+  },
+  "details": "รายละเอียด: {details}",
+  "@details": {
+    "description": "ป้ายกำกับสำหรับรายละเอียดของการปล่อยจรวด",
+    "placeholders": {
+      "details": {}
+    }
+  },
+  "rocket": "จรวด: {rocket}",
+  "@rocket": {
+    "description": "ป้ายกำกับสำหรับจรวดที่ใช้ปล่อย",
+    "placeholders": {
+      "rocket": {}
+    }
+  },
+  "launchpad": "ฐานปล่อย: {launchpad}",
+  "@launchpad": {
+    "description": "ป้ายกำกับสำหรับฐานปล่อยจรวด",
+    "placeholders": {
+      "launchpad": {}
+    }
+  },
+  "close": "ปิด",
+  "@close": {
+    "description": "ป้ายกำกับปุ่มปิดกล่องโต้ตอบ"
+  }
+}
